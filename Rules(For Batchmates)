@@ -1,0 +1,6 @@
+npm i
+
+truffle migrate --reset
+
+
+npm start
